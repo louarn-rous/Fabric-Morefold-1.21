@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "morefold",
+	"version": "${version}",
+	"name": "Morefold Mod",
+	"description": "Niev's Morefold variety mod",
+	"authors": [
+		"laulu_"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/louarnrous/morefold"
+	},
+	"license": "MIT",
+	"icon": "assets/morefold/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.niev.morefold.Morefold"
+		],
+		"fabric-datagen": [
+			"net.niev.morefold.MorefoldDataGenerator"
+		],
+		"client": [
+			"net.niev.morefold.MorefoldClient"
+		]
+	},
+	"mixins": [
+		"morefold.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
