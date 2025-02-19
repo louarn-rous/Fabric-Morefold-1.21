@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "morefold:raw_tin_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "morefold:raw_tin"
+  }
+}

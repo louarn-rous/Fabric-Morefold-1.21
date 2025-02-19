@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.2,
+  "group": "tin_ingot",
+  "ingredient": {
+    "item": "morefold:raw_tin"
+  },
+  "result": {
+    "id": "morefold:tin_ingot"
+  }
+}

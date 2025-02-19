@@ -3,6 +3,7 @@ package net.niev.morefold;
 import net.fabricmc.api.ModInitializer;
 
 import net.niev.morefold.block.ModBlocks;
+import net.niev.morefold.item.ModItemGroups;
 import net.niev.morefold.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -15,5 +16,6 @@ public class Morefold implements ModInitializer {
 	public void onInitialize() {
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+		ModItemGroups.registerItemGroups();
 	}
 }

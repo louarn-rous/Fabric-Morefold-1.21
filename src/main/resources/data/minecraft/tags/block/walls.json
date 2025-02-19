@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "morefold:cracked_stone_brick_wall",
+    "morefold:cracked_nether_brick_wall",
+    "morefold:cracked_deepslate_brick_wall",
+    "morefold:cracked_deepslate_tile_wall",
+    "morefold:cracked_polished_blackstone_brick_wall"
+  ]
+}

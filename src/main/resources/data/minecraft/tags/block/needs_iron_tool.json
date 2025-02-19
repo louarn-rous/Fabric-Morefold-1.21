@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "morefold:deepslate_tin_ore",
+    "morefold:tin_block",
+    "morefold:deepslate_zinc_ore",
+    "morefold:zinc_block",
+    "morefold:bronze_block"
+  ]
+}

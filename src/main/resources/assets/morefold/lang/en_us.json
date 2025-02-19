@@ -1,8 +1,37 @@
 {
   "item.morefold.vegetable_stew": "Vegetable Stew",
   "item.morefold.mallet": "Mallet",
-  "block.morefold.tin_ore": "Cassiterite",
+
+  "block.morefold.tin_ore": "Tin Ore",
+  "block.morefold.deepslate_tin_ore": "Deepslate Tin Ore",
+  "item.morefold.raw_tin": "Raw Tin",
+  "block.morefold.raw_tin_block": "Block of Raw Tin",
+  "item.morefold.tin_ingot": "Tin Ingot",
   "block.morefold.tin_block": "Block of Tin",
-  "block.morefold.zinc_ore": "Sphalerite",
-  "block.morefold.zinc_block": "Block of Zinc"
+  "block.morefold.zinc_ore": "Zinc Ore",
+  "block.morefold.deepslate_zinc_ore": "Deepslate Zinc Ore",
+  "item.morefold.raw_zinc": "Raw Zinc",
+  "block.morefold.raw_zinc_block": "Block of Raw Zinc",
+  "item.morefold.zinc_ingot": "Zinc Ingot",
+  "block.morefold.zinc_block": "Block of Zinc",
+  "item.morefold.bronze_ingot": "Bronze Ingot",
+  "block.morefold.bronze_block": "Block of Bronze",
+
+  "block.morefold.cracked_stone_brick_wall": "Cracked Stone Brick Wall",
+  "block.morefold.cracked_stone_brick_slab": "Cracked Stone Brick Slab",
+  "block.morefold.cracked_stone_brick_stairs": "Cracked Stone Brick Stairs",
+  "block.morefold.cracked_nether_brick_wall": "Cracked Nether Brick Wall",
+  "block.morefold.cracked_nether_brick_slab": "Cracked Nether Brick Slab",
+  "block.morefold.cracked_nether_brick_stairs": "Cracked Nether Brick Stairs",
+  "block.morefold.cracked_deepslate_brick_wall": "Cracked Deepslate Brick Wall",
+  "block.morefold.cracked_deepslate_brick_slab": "Cracked Deepslate Brick Slab",
+  "block.morefold.cracked_deepslate_brick_stairs": "Cracked Deepslate Brick Stairs",
+  "block.morefold.cracked_deepslate_tile_wall": "Cracked Deepslate Tile Wall",
+  "block.morefold.cracked_deepslate_tile_slab": "Cracked Deepslate Tile Slab",
+  "block.morefold.cracked_deepslate_tile_stairs": "Cracked Deepslate Tile Stairs",
+  "block.morefold.cracked_polished_blackstone_brick_wall": "Cracked Polished Blackstone Brick Wall",
+  "block.morefold.cracked_polished_blackstone_brick_slab": "Cracked Polished Blackstone Brick Slab",
+  "block.morefold.cracked_polished_blackstone_brick_stairs": "Cracked Polished Blackstone Brick Stairs",
+
+  "itemgroup.morefold.morefold_items": "Morefold"
 }

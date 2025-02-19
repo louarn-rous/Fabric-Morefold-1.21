@@ -4,13 +4,23 @@ Hammer
 
 Cleaver
 
-- Tin Ore
+Quiver
+
+- Tin Ore (Cassiterite)
 -> Tin Ingot
 --> Block of Tin
 
-- Zinc Ore
+- Zinc Ore (Sphalerite)
 -> Zinc Ingot
 --> Block of Zinc
+
+- Cobalt
+- Lead
+- Silver
+- Platinum
+- Nickel
+
+
 
 Copper armour and tools
 
@@ -19,5 +29,32 @@ Copper armour and tools
 --> Bronze ingot
 ---> Bronze tools and armour
 -> Brass (2 copper, 1 zinc)
+-> Electrum (1 gold, 1 silver)
 
 Vegetable Soup (1 bowl, 1 potato, 1 carrot)
+
+
+
+Tree variants:
+- Pine
+- Maple
+- Fir
+- Mahogany
+- Redwood
+
+
+Plants:
+- Rice
+- Jute
+- Flax
+-> Linen
+
+// add Cracked Nether Brick {Slab, Wall, Stairs}
+// add Cracked Deepslate Brick {Slab, Wall, Stairs}
+
+// add Cracked Deepslate Tile {Slab, Wall, Stairs}
+
+// add Cracked Polished Blackstone Brick {Slab, Wall, Stairs}
+
+
+red nether brick fence
